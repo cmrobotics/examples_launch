@@ -1,7 +1,7 @@
 # Nesting Launch Files
 
 ## Introduction
-This directory hosts files that show howo to nest launches.
+This directory hosts files that show how to nest launches.
 
 ## Running
 There are two launch files, namely `toplevel.launch.py` and `child.launch.py`. The former calls the latter and passes arguments to it. This is also a good example to show that the configuration value extracted through `LaunchConfiguration` is local to the launch file. Both launch files declare the same arguments, `message` and `message_without_default`.
