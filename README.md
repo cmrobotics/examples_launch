@@ -17,3 +17,6 @@ As a simplification, the `launch` framework can be understood in two parts.
 
 ## Nesting Launch Files
 See the documentation under [the nesting directory](nesting/).
+
+## Using Configuration Files
+See the documentation under [the config_files directory](config_files/).
