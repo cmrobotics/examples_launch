@@ -10,6 +10,8 @@
   <depend>rclcpp</depend>
   <depend>std_msgs</depend>
 
+  <exec_depend>nav2_commmon</exec_depend>
+
   <buildtool_depend>ament_cmake</buildtool_depend>
 
   <export>
