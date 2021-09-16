@@ -25,7 +25,7 @@ install(TARGETS simple_publisher
 
 # Install the directories that go into the share folder
 install(DIRECTORY
-  nesting config_files namespaces
+  nesting config_files namespaces conditions
   DESTINATION share/${PROJECT_NAME}/
 )
 
